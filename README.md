@@ -1,0 +1,2 @@
+# aboutgoat
+my  detail 
